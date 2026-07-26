@@ -71,8 +71,8 @@ Requires JDK 16+ and Maven.
 git clone https://github.com/winstonnfeng/Statistical-Analysis-Platform.git
 cd Statistical-Analysis-Platform
 mvn clean install
-mvn exec:java -Dexec.mainClass="app.Main"
 ```
+Then open the project in IntelliJ IDEA and run `app.Main`.
 
 Run the test suite with:
 
